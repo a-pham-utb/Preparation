@@ -5,8 +5,7 @@ Technologie, které chcete použít.
 
 -------------------------------------------------------------------------
 1)
-Cílem této práce je vytvořit interní systém v podobě webové aplikace, který je určen pro správu a evidenci zákazníků a produktů v softwarové firmě. 
-Jedná se o interní systém firmy Obec24.cz, která dodává jednotlivým zákazníkům své produkty. 
+Cílem této práce je vytvořit interní systém v podobě webové aplikace, který je určen pro správu a evidenci zákazníků a produktů v softwarové firmě, která dodává jednotlivým zákazníkům své produkty. Systém je navržen pro vnitřní správu.
 
 2) Žádné
 
