@@ -39,3 +39,8 @@ Databáze bude řešena pomocí MariaDB
   - Testování aplikace
 12. týden
   - Refactoring a dokončení aplikace
+
+
+Závěr:
+
+Po dokončení celého projektu mi spadl kámen ze srdce. Vybral jsem si docela časově náročný projekt pro dokončení. Celkově bych chtěl shrnout, že jsem se víceméně dokázal držet naplánovaného časového harmonogramu. Projekt byl vytvořen od plánování struktury databáze až po výstup v podobě webové aplikace. Současně jsem se seznámil s frameworkem Metronic pro frontend a zlepšoval své schopnosti v jazyce PHP a frameworkem Codeigniter 4.
